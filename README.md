@@ -31,9 +31,9 @@ aipgcoreTasks('submodule', {skipBrowsers: true});
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/underdarkskies/aipgcore) on the main aipgcore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/AIPowerGrid/aipgcore) on the main aipgcore repo for information about how to contribute.
 
 ## License
 
-Code released under [the MIT license](https://github.com/underdarkskies/aipgcore/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/AIPowerGrid/aipgcore/blob/master/LICENSE).
 
